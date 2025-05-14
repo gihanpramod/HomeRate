@@ -62,10 +62,10 @@ This project was developed with the support and collaboration of:
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/gihanpramod">
-        <img src="https://github.com/gihanpramod.png" width="100px;" alt="Gihan Pramod"/>
+      <a href="https://github.com/pawannn-perera">
+        <img src="https://github.com/pawannn-perera.png" width="100px;" alt="Pawan Perera"/>
         <br />
-        <sub><b>Gihan Pramod</b></sub>
+        <sub><b>Pawan Perera</b></sub>
   </tr>
 </table>
 A big thank you to everyone for their hard work and contributions!
